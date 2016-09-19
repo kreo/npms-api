@@ -1,0 +1,1 @@
+{  "name": "npms-api",  "version": "2.0.0",  "description": "The https://npms.io API.",  "apidoc": "0.2.0",  "template": {    "withCompare": false  },  "sampleUrl": false,  "generator": {    "name": "apidoc",    "time": "2016-09-19T21:15:50.299Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }}
